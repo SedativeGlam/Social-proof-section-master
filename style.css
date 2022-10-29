@@ -232,4 +232,8 @@ color: #ee68a4;
         grid-template-columns: 1fr;
         gap: 15px;
     }
+
+    .section2-wrapper1, .section2-wrapper2, .section2-wrapper3{
+        padding-left: 30px;
+    }
 }
